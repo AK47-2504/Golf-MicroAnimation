@@ -17,7 +17,6 @@ Customer Reviews: Includes testimonials with unique animations for emphasis.
 🟡 Technologies Used:
 * Frontend: HTML5, CSS3, JavaScript.
 * Animation Libraries: GSAP (GreenSock Animation Platform) for scroll-based and element-based animations.
-* Styling: Custom CSS with responsiveness using media queries.
 * Target Audience: This application is ideal for both seasoned golfers and beginners, as well as families looking for recreational activities. It provides an intuitive interface to learn about the facility's offerings and plan their visit.
 
 🔵 Key Achievements:
